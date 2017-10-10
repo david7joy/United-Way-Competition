@@ -35,6 +35,12 @@ Analysis Methodology :
 7) Analyze final information and get insights
 8) Create graphs and information and apply into powerpoint
 
+Learning experiences : 
+1) Appling statistical methods on Industry data
+2) Using Excel and SQL 
+3) Creating database , Creating/dropping table , Altertable, insert and Update , search query , order by and group by 
+4) Analysing and getting insights from data and applying the same to tell a story in Powerpoint. 
+
 
 
 
